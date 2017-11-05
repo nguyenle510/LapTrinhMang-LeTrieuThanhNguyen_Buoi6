@@ -1,0 +1,5 @@
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai2-Client\bin\Debug\Bai2-Client.exe.config
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai2-Client\bin\Debug\Bai2-Client.exe
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai2-Client\bin\Debug\Bai2-Client.pdb
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai2-Client\obj\Debug\Bai2-Client.exe
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai2-Client\obj\Debug\Bai2-Client.pdb

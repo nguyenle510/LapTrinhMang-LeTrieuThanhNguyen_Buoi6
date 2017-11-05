@@ -1,0 +1,6 @@
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai1-Serverh\bin\Debug\Bai1-Serverh.exe.config
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai1-Serverh\bin\Debug\Bai1-Serverh.exe
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai1-Serverh\bin\Debug\Bai1-Serverh.pdb
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai1-Serverh\obj\Debug\Bai1-Server.csprojResolveAssemblyReference.cache
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai1-Serverh\obj\Debug\Bai1-Serverh.exe
+E:\QTM\LeTrieuThanhNguyen-Buoi6\Bai1-Serverh\obj\Debug\Bai1-Serverh.pdb
